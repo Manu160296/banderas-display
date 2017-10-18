@@ -1,0 +1,14 @@
+div{
+  box-sizing: border-box;
+  display: block;
+  height: 100px;
+  margin:10px;
+  padding: 10px;
+}
+.first , .third{
+    background-color: #f7b617;
+}
+.second{
+  background-color: #2b2b2b;
+  color:white;
+}
